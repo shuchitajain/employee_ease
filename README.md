@@ -1,6 +1,7 @@
-# employee_ease
+# Employee Ease
 
 An employee management app, which lets you manage your employees effectively from creating a new employee, viewing all employee details, adding a new employee to deleting one.
+The app is built using Flutter for frontend, Cosmocloud APIs for backend and MongoDB for database management.
 
 <img src="https://github.com/user-attachments/assets/86f2568f-b4e1-4357-8947-e0090f794ab3" width="250" height="500"/>
 
